@@ -36,10 +36,11 @@ http://10djlj3701922.vicp.fun:27036/static/%E8%8B%B1%E5%8D%8E%E5%AD%A6%E5%A0%82%
 
 <h1>第7步</h1>
 
-![image](https://github.com/user-attachments/assets/93376814-737c-46f6-b1ba-d6774d299b34)
+![image](https://github.com/user-attachments/assets/93376814-737c-46f6-b1ba-d6774d299b34)</br>
 
 <h1>第8步</h1>
 ![image](https://github.com/user-attachments/assets/1d0756c6-f661-4ecb-ab0f-1bc3e85db50f)</br>
+![第二步](https://github.com/user-attachments/assets/7c930f6f-1324-4558-aa14-2648f96a8411)
 
 
 
